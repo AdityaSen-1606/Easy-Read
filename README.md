@@ -4,39 +4,36 @@ Easy-Read is a Chrome extension designed to enhance your reading experience by p
 
 ## Features
 
-- **On-Demand Definitions**: Get instant definitions for any word you come across while browsing.
+- **On-Demand Definitions**: Get instant definitions for any word you encounter while browsing.
 - **Simple Activation**: Activate the extension with just a click.
-- **Lightweight**: A minimalist approach with a focus on speed and simplicity.
+- **Lightweight**: A minimalist approach focusing on speed and simplicity.
 
 ## Installation
 
 To install the Easy-Read extension, follow these steps:
 
 1. Download the extension files from the GitHub repository.
-2. Open Chrome and navigate to `chrome://extensions/`.
+2. Open Chrome and navigate to `chrome://extensions/.`
 3. Enable "Developer mode" at the top-right corner.
 4. Click "Load unpacked" and select the directory where you downloaded the Easy-Read files.
 
 ## Usage
 
-After installation, simply click on the Easy-Read icon in your browser's extension area to activate it. Once activated, select any word on a webpage to see a tooltip with its definition.
+After installation, click on the Easy-Read icon in your browser's extension area to activate it. Once activated, select any word on a webpage to see a tooltip with its definition.
 
 ## Contributing
 
-Contributions to the Easy-Read project are welcome. If you have suggestions for improvements or bug reports, please open an issue in the repository.
+Contributions to the Easy-Read project are welcome. If you have suggestions for improvements or bug reports, please open an issue in the repository. Also, I will release its new version with more functionality.
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## Acknowledgments
 
 - Thanks to [Dictionary API](https://dictionaryapi.dev/) for providing word definitions.
-- Icon made by [Your Name] using [OpenAI's DALL-E](https://openai.com/dall-e/).
+- Icon made by me.
 
 ## Disclaimer
 
-This extension is for educational purposes only. Use it at your own discretion.
+This extension is for educational purposes only. Use it at your discretion.
 
 ---
 
