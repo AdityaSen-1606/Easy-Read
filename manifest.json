@@ -1,0 +1,19 @@
+{
+  "manifest_version": 3,
+  "name": "Easy-Read",
+  "version": "1.0",
+  "description": "Click the extension to enable tooltip definitions on any selected text.",
+  "permissions": ["activeTab", "scripting"],
+  "background": {
+    "service_worker": "background.js"
+  },
+  "action": {
+    "default_popup": "",
+    "default_icon":{
+        "16":"icons/icon16.png"
+    }
+  },
+  "icons":{
+    "16":"icons/icon16.png"
+  }
+}
